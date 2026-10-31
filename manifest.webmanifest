@@ -1,0 +1,18 @@
+{
+  "name": "FFXII Ultima Edition - Gear, Spells & Technicks Guide",
+  "short_name": "FFXII UE Guide",
+  "description": "Phone-friendly tracker and acquisition guide for FFXII Ultima Edition gear, magicks, and technicks.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#09070d",
+  "theme_color": "#120f17",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
